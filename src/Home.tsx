@@ -1,4 +1,4 @@
-import TaskBar from "./components/TaskBar";
+import TaskBar from "./components/TaskBar/TaskBar";
 
 export default function Home() {
   return (
